@@ -1,3 +1,4 @@
-# cllg_website
-unofficial webiste for my college as part of an assignment
+# College_Website
+Unofficial webiste for my college as part of an assignment.
+
 file:///C:/Users/kiit1/Downloads/iwtwebsite.html
